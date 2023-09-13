@@ -28,6 +28,7 @@ a, .btn {
 
 /* DESKTOP NAVIGATION */
 
+
 nav, .nav-links {
     display: flex;
 }
@@ -154,6 +155,7 @@ section {
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
+    position: relative;
 }
 
 .section-container {
@@ -454,4 +456,3 @@ footer p {
 .icon-padding-ic {
     padding-left: 2.4rem;
 }
-
