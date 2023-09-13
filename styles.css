@@ -435,3 +435,23 @@ footer p {
     justify-content: center;
     padding-bottom: 2.8rem;
 }
+
+/* OTHER'S */
+
+
+.icon-padding-communication {
+    padding-left: 3.8rem;
+}
+
+.icon-padding-pm {
+    padding-left: 1.8rem;
+}
+
+.icon-padding-dm {
+    padding-left: 0.4rem;
+}
+
+.icon-padding-ic {
+    padding-left: 2.4rem;
+}
+
