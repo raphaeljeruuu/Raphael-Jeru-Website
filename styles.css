@@ -457,3 +457,7 @@ footer p {
 .icon-padding-ic {
     padding-left: 2.4rem;
 }
+
+::-webkit-scrollbar {
+    width: 0;
+}
